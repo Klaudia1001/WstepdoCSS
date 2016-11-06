@@ -4,6 +4,10 @@
     background-color: black;
     text-align: center;
     font-size: 20px;
+    position: fixed;
+    z-index: 1;
+    width:100%;
+    
 }
 .menu-item  {
     display: inline;
